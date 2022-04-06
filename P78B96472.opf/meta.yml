@@ -1,0 +1,29 @@
+id: P78B96472
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13304
+  instance_id: http://purl.bdrc.io/resource/IE3JT13304
+  collection_id: http://purl.bdrc.io/resource/PR0ET004
+  language_id: None
+  title:
+    bo:
+    - ཕར་ཕྱིན་སྐོར།
+  alt_title:
+    bo:
+    - ཕར་ཕྱིན་གྱི་སྐོར།
+    - ཕར་ཕྱིན་གྱི་ཆོས་སྐོར།
+  author: None
+  publisher: GuruLamaWorks
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    a5116c31aaf0401790e9fad9f953fbd2:
+      title: ༄༅།་།ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13304_001_0025.txt
+      reference: http://purl.bdrc.io/resource/VL5C34239948BC5023
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-30T16:15:39.116949'
+last_modified_at: '2021-12-30T16:15:39.116960'
